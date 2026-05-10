@@ -2,6 +2,7 @@
 title: '2026年静态博客框架怎么选？Astro vs Hugo vs Hexo'
 description: '主流静态博客框架全面对比，帮你选出最适合零基础新手的方案。'
 pubDate: 'May 09 2026'
+tags: ['Astro', 'Hugo', '博客框架']
 ---
 
 ## 为什么需要静态博客框架？
